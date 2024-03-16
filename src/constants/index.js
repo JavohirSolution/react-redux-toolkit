@@ -1,0 +1,1 @@
+export const logo = "https://img.freepik.com/premium-vector/colorful-bird-illustration-gradient-abstract_343694-1740.jpg"
